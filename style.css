@@ -74,7 +74,7 @@ body{
 }
 .answer-show{
     transition: max-height 200ms ease-in-out;
-    max-height: 30px;
+    max-height: 20em;
     width: auto;
     margin-top: 0.5em;
 }
